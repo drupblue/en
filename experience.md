@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 
-Osvaldo Toja's (otsuarez) experience
+Osvaldo Toja's experience
 =========================
 
 sysadmin skills
