@@ -3,13 +3,6 @@ layout: page
 title: About
 ---
 
-Marcelo Cruañas
----------------
-
-* [linkedin](http://ar.linkedin.com/pub/marcelo-crua%C3%B1as-muzio/10/7a7/a25)
-* [portfolio](http://portfolio.drupblue.com)
-* [facebook](http://facebook.com/drupblue)
-
 
 Osvaldo Toja
 ------------
