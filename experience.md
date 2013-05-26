@@ -15,8 +15,9 @@ sysadmin skills
 * Years of designing and implementing infrastructure for large companies with focus on scalability, high availability (loadbalancing/failover), performance.
 * OpenLDAP implementation and integration with other services
 * Familiar with VMware, Xen and KVM. Vagrant as well.
-* DNS servers installation, configuration and maintenance.
+* DNS and Mail servers installation, configuration and maintenance.
 * Proficient in configuring Nagios, Munin monitoring systems
+* Ansible and Chef setup and implementation.
 * Windows Server 2003/2008 (IIS, Active Directory, general management)
 
 networking
